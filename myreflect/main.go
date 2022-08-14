@@ -5,8 +5,6 @@ import (
 	"reflect"
 )
 
-// new
-// git test
 type myInt int
 type Student struct {
 	Name  string `json:"name" form:"username"`
