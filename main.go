@@ -7,6 +7,7 @@ import (
 	"time"
 )
 
+// 11
 var wg sync.WaitGroup
 
 const kmaxPrimeChanNum = 1000000
