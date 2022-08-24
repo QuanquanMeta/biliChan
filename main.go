@@ -10,6 +10,8 @@ import (
 // 11
 var wg sync.WaitGroup
 
+// test
+
 const kmaxPrimeChanNum = 1000000
 const kNum = 1000000
 
